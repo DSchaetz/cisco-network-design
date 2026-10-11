@@ -8,6 +8,10 @@ and LANs. The goal was to establish reliable communication
 between networks and demonstrate how dynamic routing can
 maintain connectivity when network paths become unavailable.
 
+## Network Topology
+
+![Network Redundancy Topology](Network-topology.png)
+
 ## Technologies Used
 
 - Cisco Packet Tracer
